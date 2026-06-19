@@ -19,7 +19,7 @@ Pick your platform — no account needed.
 
 | | Platform | Get it |
 |:--:|:--|:--|
-| 🍎 | **macOS** — Apple Silicon (M1–M4) | **[Download&nbsp;.dmg&nbsp;»](https://github.com/olam-source/speedx-coach-updates/releases/download/v0.2.1/SpeedX-Coach-0.2.1-arm64.dmg)** |
+| 🍎 | **macOS** — Apple Silicon (M-chips) | **[Download&nbsp;.dmg&nbsp;»](https://github.com/olam-source/speedx-coach-updates/releases/download/v0.2.1/SpeedX-Coach-0.2.1-arm64.dmg)** |
 | 🍎 | **macOS** — Intel | **[Download&nbsp;.dmg&nbsp;»](https://github.com/olam-source/speedx-coach-updates/releases/download/v0.2.1/SpeedX-Coach-0.2.1-x64.dmg)** |
 | 🪟 | **Windows** 10 / 11 | **[Download&nbsp;.exe&nbsp;»](https://github.com/olam-source/speedx-coach-updates/releases/download/v0.2.1/SpeedX-Coach-0.2.1-x64.exe)** |
 | 🐧 | **Linux** (x86-64) | **[Download&nbsp;.AppImage&nbsp;»](https://github.com/olam-source/speedx-coach-updates/releases/download/v0.2.1/SpeedX-Coach-0.2.1-x86_64.AppImage)** |
