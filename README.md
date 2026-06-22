@@ -19,10 +19,10 @@ Pick your platform — no account needed.
 
 | | Platform | Get it |
 |:--:|:--|:--|
-| 🍎 | **macOS** — Apple Silicon (M-chips) | **[Download&nbsp;.dmg&nbsp;»](https://github.com/olam-source/speedx-coach-updates/releases/download/v0.6.0/SpeedX-Coach-0.6.0-arm64.dmg)** |
-| 🍎 | **macOS** — Intel | **[Download&nbsp;.dmg&nbsp;»](https://github.com/olam-source/speedx-coach-updates/releases/download/v0.6.0/SpeedX-Coach-0.6.0-x64.dmg)** |
-| 🪟 | **Windows** 10 / 11 | **[Download&nbsp;.exe&nbsp;»](https://github.com/olam-source/speedx-coach-updates/releases/download/v0.6.0/SpeedX-Coach-0.6.0-x64.exe)** |
-| 🐧 | **Linux** (x86-64) | **[Download&nbsp;.AppImage&nbsp;»](https://github.com/olam-source/speedx-coach-updates/releases/download/v0.6.0/SpeedX-Coach-0.6.0-x86_64.AppImage)** |
+| 🍎 | **macOS** — Apple Silicon (M-chips) | **[Download&nbsp;.dmg&nbsp;»](https://github.com/olam-source/speedx-coach-updates/releases/download/v0.7.0/SpeedX-Coach-0.7.0-arm64.dmg)** |
+| 🍎 | **macOS** — Intel | **[Download&nbsp;.dmg&nbsp;»](https://github.com/olam-source/speedx-coach-updates/releases/download/v0.7.0/SpeedX-Coach-0.7.0-x64.dmg)** |
+| 🪟 | **Windows** 10 / 11 | **[Download&nbsp;.exe&nbsp;»](https://github.com/olam-source/speedx-coach-updates/releases/download/v0.7.0/SpeedX-Coach-0.7.0-x64.exe)** |
+| 🐧 | **Linux** (x86-64) | **[Download&nbsp;.AppImage&nbsp;»](https://github.com/olam-source/speedx-coach-updates/releases/download/v0.7.0/SpeedX-Coach-0.7.0-x86_64.AppImage)** |
 
 <sub>Newest build is always on the **[latest release »](https://github.com/olam-source/speedx-coach-updates/releases/latest)** page.</sub>
 
@@ -59,13 +59,18 @@ Plug the SpeedX **coach hub** into your laptop via USB and every athlete's weara
 - **Heart rate** — optical wrist HR with training-zone coloring (Z1–Z5)
 - **Pace** per mile, current & best **split**, **distance**, cadence, stride, speed
 - Link quality, battery level, GPS / lap / low-battery badges per athlete
-- **Athlete roster** — map node IDs to real names and teams; saved between sessions
+- **Athlete roster** — map hex node IDs to real names and teams; saved between sessions (add each athlete once)
 - **Team filtering** — filter the board to one team with a click
 - **Per-athlete history charts** — live HR, pace, and distance charts; no external library
 - **Session recording → CSV** export for post-session analysis
 - **Low-battery & HR-zone alerts** shown in the header bar and on the card
 - **First-run tutorial** — a 4-step guided overlay walks new coaches through the full workflow on first launch
 - **In-app updates** — the app checks for new versions and downloads + opens the installer for you; no signing certificate required
+
+## What's new in v0.7.0
+
+- **Hexadecimal node IDs** — the mesh now scales to ~65,000 wearables (16-bit IDs) instead of 249. IDs show and enter as hex, e.g. `0x1A2B`. *(Requires the matching firmware build — reflash all wearables + the hub together.)*
+- The athlete roster persists across sessions/restarts, so a coach adds each athlete only once.
 
 ## What's new in v0.6.0
 
