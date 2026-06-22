@@ -6,7 +6,7 @@
 Every athlete's optical heart rate, pace, splits, and running stats — one screen, no router.
 
 [![Latest version](https://img.shields.io/github/v/release/olam-source/speedx-coach-updates?label=version&color=2ea44f&style=for-the-badge)](https://github.com/olam-source/speedx-coach-updates/releases/latest)
-[![Downloads](https://img.shields.io/github/downloads/olam-source/speedx-coach-updates/total?color=36c5f0&style=for-the-badge)](https://github.com/olam-source/speedx-coach-updates/releases)
+
 ![Platforms](https://img.shields.io/badge/macOS%20·%20Windows%20·%20Linux-8957e5?style=for-the-badge)
 
 </div>
