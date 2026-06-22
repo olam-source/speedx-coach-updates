@@ -19,10 +19,10 @@ Pick your platform — no account needed.
 
 | | Platform | Get it |
 |:--:|:--|:--|
-| 🍎 | **macOS** — Apple Silicon (M-chips) | **[Download&nbsp;.dmg&nbsp;»](https://github.com/olam-source/speedx-coach-updates/releases/download/v0.4.0/SpeedX-Coach-0.4.0-arm64.dmg)** |
-| 🍎 | **macOS** — Intel | **[Download&nbsp;.dmg&nbsp;»](https://github.com/olam-source/speedx-coach-updates/releases/download/v0.4.0/SpeedX-Coach-0.4.0-x64.dmg)** |
-| 🪟 | **Windows** 10 / 11 | **[Download&nbsp;.exe&nbsp;»](https://github.com/olam-source/speedx-coach-updates/releases/download/v0.4.0/SpeedX-Coach-0.4.0-x64.exe)** |
-| 🐧 | **Linux** (x86-64) | **[Download&nbsp;.AppImage&nbsp;»](https://github.com/olam-source/speedx-coach-updates/releases/download/v0.4.0/SpeedX-Coach-0.4.0-x86_64.AppImage)** |
+| 🍎 | **macOS** — Apple Silicon (M-chips) | **[Download&nbsp;.dmg&nbsp;»](https://github.com/olam-source/speedx-coach-updates/releases/download/v0.5.0/SpeedX-Coach-0.5.0-arm64.dmg)** |
+| 🍎 | **macOS** — Intel | **[Download&nbsp;.dmg&nbsp;»](https://github.com/olam-source/speedx-coach-updates/releases/download/v0.5.0/SpeedX-Coach-0.5.0-x64.dmg)** |
+| 🪟 | **Windows** 10 / 11 | **[Download&nbsp;.exe&nbsp;»](https://github.com/olam-source/speedx-coach-updates/releases/download/v0.5.0/SpeedX-Coach-0.5.0-x64.exe)** |
+| 🐧 | **Linux** (x86-64) | **[Download&nbsp;.AppImage&nbsp;»](https://github.com/olam-source/speedx-coach-updates/releases/download/v0.5.0/SpeedX-Coach-0.5.0-x86_64.AppImage)** |
 
 <sub>Newest build is always on the **[latest release »](https://github.com/olam-source/speedx-coach-updates/releases/latest)** page.</sub>
 
@@ -67,9 +67,10 @@ Plug the SpeedX **coach hub** into your laptop via USB and every athlete's weara
 - **First-run tutorial** — a 4-step guided overlay walks new coaches through the full workflow on first launch
 - **Auto-updates** — when a new version ships, the app offers a one-click **Restart & install**
 
-## What's new in v0.4.0
+## What's new in v0.5.0
 
-- **Complete UI/UX redesign** — refined, product-grade visual system: new icon set, reworked topbar, HR-zone accent rails on cards, monospace metrics, polished modals and empty states
+- **"Atelier" luxury redesign** — obsidian + champagne-gold + ivory palette, serif display type, and a refined pill-button system; rearranged into a slim title bar over a command rail
+- Resize fix — the window reflows cleanly at any size (collapsing sidebar, adaptive bars)
 - First-run coach tutorial (4-step guided overlay, shown once on first launch)
 - Hardware: MAXM86161 optical PPG armband — no chest strap
 - BLE Heart Rate broadcast so athletes keep their own watch paired
